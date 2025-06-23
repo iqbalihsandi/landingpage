@@ -54,7 +54,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>"
                  data-ad-format="rectangle"
                  data-full-width-responsive="true"
-                 data-video-ad-start="on"
                  data-adtest="on">
             </ins>
         `;
@@ -215,7 +214,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>"
                  data-ad-format="auto"
                  data-full-width-responsive="true"
-                 data-video-ad-start="on"
                  data-adtest="on">
             </ins>
         `;
