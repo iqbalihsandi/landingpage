@@ -28,8 +28,30 @@ document.addEventListener("DOMContentLoaded", function () {
         floatingAd.innerHTML = `
             <ins class="adsbygoogle"
                  style="display:block; width:160px; height:600px;"
-                 data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
-                 data-ad-slot="YOUR_AD_SLOT_ID"
+                 data-ad-client="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2496594283241161"
+     crossorigin="anonymous"></script>
+<!-- Display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2496594283241161"
+     data-ad-slot="9441277686"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>"
+                 data-ad-slot="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2496594283241161"
+     crossorigin="anonymous"></script>
+<!-- Display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2496594283241161"
+     data-ad-slot="9441277686"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>"
                  data-ad-format="rectangle"
                  data-full-width-responsive="true"
                  data-video-ad-start="on"
@@ -75,8 +97,30 @@ document.addEventListener("DOMContentLoaded", function () {
             <p style="margin: 0;">Try our CRM Software for free today!</p>
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
-                 data-ad-slot="YOUR_AD_FOOTER_SLOT"
+                 data-ad-client="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2496594283241161"
+     crossorigin="anonymous"></script>
+<!-- Display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2496594283241161"
+     data-ad-slot="9441277686"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>"
+                 data-ad-slot="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2496594283241161"
+     crossorigin="anonymous"></script>
+<!-- Display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2496594283241161"
+     data-ad-slot="9441277686"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>"
                  data-ad-format="banner"
                  data-ad-layout-key="-gw-1+2a-1k+q"
                  data-full-width-responsive="true"
@@ -145,8 +189,30 @@ document.addEventListener("DOMContentLoaded", function () {
         modalSlot.innerHTML = `
             <ins class="adsbygoogle"
                  style="display:block; text-align:center;"
-                 data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
-                 data-ad-slot="YOUR_AD_MODAL_SLOT"
+                 data-ad-client="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2496594283241161"
+     crossorigin="anonymous"></script>
+<!-- Display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2496594283241161"
+     data-ad-slot="9441277686"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>"
+                 data-ad-slot="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2496594283241161"
+     crossorigin="anonymous"></script>
+<!-- Display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2496594283241161"
+     data-ad-slot="9441277686"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>"
                  data-ad-format="auto"
                  data-full-width-responsive="true"
                  data-video-ad-start="on"
